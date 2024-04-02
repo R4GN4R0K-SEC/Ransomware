@@ -7,14 +7,14 @@
 ```
 
 ## 💿 Installation 💿
-git clone https://github.com/Err0r-ICA/Ransomware <br>
+git clone https://github.com/R4GN4R0K-SEC/Ransomware <br>
 cd Ransomware <br>
 python3 Ransomware <br>
 
 ## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/cZ0mh8tb/Screenshot-20200425-144821-Termux.jpg) 
 
-### 👤 My Accounts 👤
+### 👤 Dev's Contact [Err0r-ICA] 👤
 
 * [TELEGRAM](https://t.me/Cyb3r_Drag0nz)
 
